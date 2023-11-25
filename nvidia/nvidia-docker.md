@@ -1,4 +1,9 @@
 # Installing the NVIDIA Container Toolkit
+![Container-Toolkit Model](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
+
+**Image Source:** NVIDIA Container Model Overview Diagram from [NVIDIA Container Toolkit Documentation](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/index.html)
+
+-- --
 [Installation](#installation)
 
 - [Installing with Apt](#installing-with-apt)
