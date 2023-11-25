@@ -11,6 +11,7 @@
 [Configuring Docker](#configuring-docker)
 
 [Next Steps](#next-steps)
+- [Running a Sample Workload with Docker](#running-a-sample-workload-with-docker)
 
 ## Installation
 ### **Installing with Apt**
@@ -59,11 +60,11 @@ Restart the Docker daemon:
 
 sudo systemctl restart docker
 
-## Next Steps
-Install an NVIDIA GPU Driver if you do not already have one installed. You can install a driver by using the package manager for your distribution, but other installation methods, such as downloading a .run file intaller, are available. Refer to the NVIDIA Driver Installation Quickstart Guide for more information.
+## **Next Steps**
+Install an NVIDIA GPU Driver if you do not already have one installed. You can install a driver by using the package manager for your distribution, but other installation methods, such as downloading a .run file installer, are available. You can check out the [Nvidia for Ubuntu](nvidia-ubuntu.md) in this repository. Refer to the NVIDIA Driver Installation Quickstart Guide for more information.
 
-## Running a Sample Workload
-Running a Sample Workload with Docker
+## **Running a Sample Workload**
+### Running a Sample Workload with Docker
 After you install and configure the toolkit and install an NVIDIA GPU Driver, you can verify your installation by running a sample workload.
 
 Run a sample CUDA container:
