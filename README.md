@@ -1,2 +1,2 @@
 # awesome-installation
-A curated repo for all the installations in a developers life.
+A curated repo for all the day-to-day installations in a developer's life.
