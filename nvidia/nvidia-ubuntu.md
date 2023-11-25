@@ -128,3 +128,8 @@ In addition, when using the runfile installation method, theÂ `LD_LIBRARY_PATH`Â
     export LD_LIBRARY_PATH=/usr/local/cuda-12.2/lib\
                              ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 ```
+
+### To-Do:
+- Add instructions for setting up on other Linux distributions, over the Windows platform, Installing through pip or Anaconda
+- Add Detailed Driver| Toolkit | Kernel Compatibility chart
+- Add Deep Learning frameworks compatibility charts like Tensorflow, Pytorch, etc
